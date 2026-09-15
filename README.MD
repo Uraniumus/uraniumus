@@ -13,9 +13,9 @@ Most of my work lives in private repos, so here's what isn't visible from the ou
 
 ### What's in here
 
-- **[{library-app}]({https://github.com/Uraniumus/homelib})** — home library catalogue: several editions of the same work,
+- **[homelib](https://github.com/Uraniumus/homelib)** — home library catalogue: several editions of the same work,
   lending copies to people who aren't users, a reading journal. Vue + Nuxt.
-- **[{tg-quiz-bot}]** — a tg-bot for registration to quizes games in your city. Python + Claude.
+- **[tg-quiz-bot]** — a tg-bot for registration to quizes games in your city. Python + Claude.
 
 ### Stack
 
