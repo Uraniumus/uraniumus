@@ -24,7 +24,7 @@ Most of my work lives in private repos, so here's what isn't visible from the ou
 
 ### Elsewhere
 
-[LinkedIn](https://linkedin.com/in/bykova-s) · [Telegram](https://t.me/podlol) ·  [EMAIL](s.s.bykova@vk.com)
+[LinkedIn](https://linkedin.com/in/bykova-s) · [Telegram](https://t.me/podlol) ·  [email](s.s.bykova@vk.com)
 
 ---
 
