@@ -24,8 +24,8 @@ Most of my work lives in private repos, so here's what isn't visible from the ou
 
 ### Elsewhere
 
-[LinkedIn](https://linkedin.com/in/bykova-s) · [Telegram](https://t.me/podlol) · {email}
+[LinkedIn](https://linkedin.com/in/bykova-s) · [Telegram](https://t.me/podlol) ·  [EMAIL](s.s.bykova@vk.com)
 
 ---
 
-<sub>Older repositories are coursework — Yandex School of Interface Development and university projects. Archived, kept for history.</sub>
+Older repositories are coursework — Yandex School of Interface Development and university projects. Archived, kept for history.
