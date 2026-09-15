@@ -1,5 +1,3 @@
-## Svetlana Bykova
-
 Vue engineer, 7 years in the industry. The last few of them on ERP systems —
 shipping core modules, then leading a frontend team of five.
 
