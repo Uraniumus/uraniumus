@@ -13,11 +13,13 @@ Most of my work lives in private repos, so here's what isn't visible from the ou
 
 - **[homelib](https://github.com/Uraniumus/homelib)** — home library catalogue: several editions of the same work,
   lending copies to people who aren't users, a reading journal. Vue + Nuxt.
+- **[swipe-game](https://github.com/Uraniumus/swipe-game)** — Tinder-style party game: the host shows
+  cards on a shared screen, friends swipe from their phones by room code, live results. Nuxt 4 + WebSockets, no database.
 - **tg-quiz-bot** — a tg-bot for registration to quizes games in your city. Python + Claude.
 
 ### Stack
 
-`Vue 2/3` · `TypeScript` · `Pinia` · `TanStack` · `Tailwind` · `UnoCSS` · `Vuetify` · `Node.js` · `SQL` · `Python`
+`Vue 2/3` · `Nuxt` · `TypeScript` · `Pinia` · `TanStack` · `Tailwind` · `UnoCSS` · `Vuetify` · `Node.js` · `WebSockets` · `SQL` · `Python`
 
 ### Elsewhere
 
