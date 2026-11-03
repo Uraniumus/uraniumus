@@ -15,7 +15,7 @@ Most of my work lives in private repos, so here's what isn't visible from the ou
   lending copies to people who aren't users, a reading journal. Vue + Nuxt.
 - **[swipe-game](https://github.com/Uraniumus/swipe-game)** — Tinder-style party game: the host shows
   cards on a shared screen, friends swipe from their phones by room code, live results. Nuxt 4 + WebSockets, no database.
-- **tg-quiz-bot** — a tg-bot for registration to quizes games in your city. Python + Claude.
+- **tg-quiz-bot** — a Telegram bot for signing up to quiz nights in your city. Python + Claude.
 
 ### Stack
 
